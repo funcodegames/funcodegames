@@ -8,7 +8,7 @@ Building a Galaxy With Code
 https://code.org/starwars
 
 Light Bot
-https://lightbot.com/
+https://lightbot.com/flash.html
 
 Code Monkey
 https://www.codemonkey.com/
